@@ -1,0 +1,7 @@
+Success Rate (Detections): 1.55%
+Success Rate (Objects): 0.77%
+Mean Average Precision (mAP_standard): 0.0795
+Mean Average Precision (mAP_fair): 0.0612
+Total Detections: 129
+Total Objects: 260
+CMC Rank-1: 1.56% | Rank-5: 7.03% | Rank-10: 13.28%

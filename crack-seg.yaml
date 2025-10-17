@@ -1,0 +1,9 @@
+# yaml
+path: /workspace
+task: segment
+train: /workspace/train/images
+val: /workspace/valid/images
+
+# adjust to your classes
+nc: 1
+names: [crack]

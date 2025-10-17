@@ -1,0 +1,64 @@
+# Use the official NVIDIA CUDA 12.1 base image with Ubuntu 22.04
+FROM nvidia/cuda:12.1.0-cudnn8-devel-ubuntu22.04
+
+# Set environment variables to avoid prompts during installation
+ENV DEBIAN_FRONTEND=noninteractive
+
+# Update and install dependencies, including adding the deadsnakes PPA for Python 3.8
+RUN apt-get update && apt-get install -y \
+    software-properties-common \
+    curl \
+    git \
+    libopencv-dev \
+    libglib2.0-0 \
+    libsm6 \
+    libxext6 \
+    libxrender-dev \
+    && rm -rf /var/lib/apt/lists/*
+
+# Add deadsnakes PPA for Python 3.8
+RUN add-apt-repository ppa:deadsnakes/ppa && apt-get update
+
+# Install Python 3.8 and its dependencies
+RUN apt-get install -y \
+    python3.8 \
+    python3.8-dev \
+    python3.8-venv \
+    python3.8-distutils \
+    && rm -rf /var/lib/apt/lists/*
+
+# Install pip for Python 3.8
+RUN curl https://bootstrap.pypa.io/pip/3.8/get-pip.py | python3.8
+
+# Install the required Python packages with specific versions
+RUN python3.8 -m pip install --no-cache-dir \
+    torch==2.4.1 \
+    torchvision==0.19.1 \
+    opencv-python-headless==4.10.0.84 \
+    ultralytics==8.3.48
+
+# Set python3.8 as the default python and pip
+RUN update-alternatives --install /usr/bin/python3 python3 /usr/bin/python3.8 1
+RUN update-alternatives --install /usr/bin/pip pip /usr/local/bin/pip 1
+
+# Enable universe repository manually and install unzip
+RUN apt-get update && apt-get install -y \
+    software-properties-common \
+    && sed -i 's/^# deb/deb/g' /etc/apt/sources.list \
+    && apt-get update && apt-get install -y \
+    unzip \
+    && rm -rf /var/lib/apt/lists/*
+
+# Set the working directory
+WORKDIR /workspace
+
+# Copy dataset and textures into the image
+COPY test.zip /workspace/
+COPY background_textures.zip /workspace/
+
+# Unzip datasets and textures
+RUN unzip /workspace/test.zip -d /workspace/test
+RUN unzip /workspace/background_textures.zip -d /workspace/background_textures
+
+# Default command (optional)
+# CMD ["python3.8"]

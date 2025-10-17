@@ -1,0 +1,1778 @@
+{
+    "1616.rf.c868709931a671796794fdbb95352c5a_object0": {
+        "bbox": [
+            10,
+            257,
+            94,
+            415
+        ],
+        "class_id": "0",
+        "image_file": "/workspace/runs/reidentification_results/runs/test_cropped_dataset/images/1616.rf.c868709931a671796794fdbb95352c5a_object0.jpg",
+        "image_id": "1616.rf.c868709931a671796794fdbb95352c5a",
+        "label_file": "/workspace/runs/reidentification_results/runs/test_cropped_dataset/labels/1616.rf.c868709931a671796794fdbb95352c5a_object0.txt"
+    },
+    "1616.rf.c868709931a671796794fdbb95352c5a_object1": {
+        "bbox": [
+            0,
+            216,
+            70,
+            252
+        ],
+        "class_id": "0",
+        "image_file": "/workspace/runs/reidentification_results/runs/test_cropped_dataset/images/1616.rf.c868709931a671796794fdbb95352c5a_object1.jpg",
+        "image_id": "1616.rf.c868709931a671796794fdbb95352c5a",
+        "label_file": "/workspace/runs/reidentification_results/runs/test_cropped_dataset/labels/1616.rf.c868709931a671796794fdbb95352c5a_object1.txt"
+    },
+    "1616.rf.c868709931a671796794fdbb95352c5a_object2": {
+        "bbox": [
+            90,
+            229,
+            393,
+            259
+        ],
+        "class_id": "0",
+        "image_file": "/workspace/runs/reidentification_results/runs/test_cropped_dataset/images/1616.rf.c868709931a671796794fdbb95352c5a_object2.jpg",
+        "image_id": "1616.rf.c868709931a671796794fdbb95352c5a",
+        "label_file": "/workspace/runs/reidentification_results/runs/test_cropped_dataset/labels/1616.rf.c868709931a671796794fdbb95352c5a_object2.txt"
+    },
+    "1675.rf.e3aa3f8d28d0247ef0284dd46dacc29f_object0": {
+        "bbox": [
+            148,
+            0,
+            239,
+            411
+        ],
+        "class_id": "0",
+        "image_file": "/workspace/runs/reidentification_results/runs/test_cropped_dataset/images/1675.rf.e3aa3f8d28d0247ef0284dd46dacc29f_object0.jpg",
+        "image_id": "1675.rf.e3aa3f8d28d0247ef0284dd46dacc29f",
+        "label_file": "/workspace/runs/reidentification_results/runs/test_cropped_dataset/labels/1675.rf.e3aa3f8d28d0247ef0284dd46dacc29f_object0.txt"
+    },
+    "1686.rf.809fb1b51c607e5cf787e44ef4ddd7b8_object0": {
+        "bbox": [
+            23,
+            21,
+            290,
+            240
+        ],
+        "class_id": "0",
+        "image_file": "/workspace/runs/reidentification_results/runs/test_cropped_dataset/images/1686.rf.809fb1b51c607e5cf787e44ef4ddd7b8_object0.jpg",
+        "image_id": "1686.rf.809fb1b51c607e5cf787e44ef4ddd7b8",
+        "label_file": "/workspace/runs/reidentification_results/runs/test_cropped_dataset/labels/1686.rf.809fb1b51c607e5cf787e44ef4ddd7b8_object0.txt"
+    },
+    "1686.rf.809fb1b51c607e5cf787e44ef4ddd7b8_object1": {
+        "bbox": [
+            287,
+            215,
+            414,
+            255
+        ],
+        "class_id": "0",
+        "image_file": "/workspace/runs/reidentification_results/runs/test_cropped_dataset/images/1686.rf.809fb1b51c607e5cf787e44ef4ddd7b8_object1.jpg",
+        "image_id": "1686.rf.809fb1b51c607e5cf787e44ef4ddd7b8",
+        "label_file": "/workspace/runs/reidentification_results/runs/test_cropped_dataset/labels/1686.rf.809fb1b51c607e5cf787e44ef4ddd7b8_object1.txt"
+    },
+    "1686.rf.809fb1b51c607e5cf787e44ef4ddd7b8_object2": {
+        "bbox": [
+            3,
+            185,
+            112,
+            209
+        ],
+        "class_id": "0",
+        "image_file": "/workspace/runs/reidentification_results/runs/test_cropped_dataset/images/1686.rf.809fb1b51c607e5cf787e44ef4ddd7b8_object2.jpg",
+        "image_id": "1686.rf.809fb1b51c607e5cf787e44ef4ddd7b8",
+        "label_file": "/workspace/runs/reidentification_results/runs/test_cropped_dataset/labels/1686.rf.809fb1b51c607e5cf787e44ef4ddd7b8_object2.txt"
+    },
+    "1706.rf.011d213c21ec78896c36728dcbc156f5_object0": {
+        "bbox": [
+            232,
+            18,
+            301,
+            394
+        ],
+        "class_id": "0",
+        "image_file": "/workspace/runs/reidentification_results/runs/test_cropped_dataset/images/1706.rf.011d213c21ec78896c36728dcbc156f5_object0.jpg",
+        "image_id": "1706.rf.011d213c21ec78896c36728dcbc156f5",
+        "label_file": "/workspace/runs/reidentification_results/runs/test_cropped_dataset/labels/1706.rf.011d213c21ec78896c36728dcbc156f5_object0.txt"
+    },
+    "1716.rf.85ea38b36008beaa72c5d8541f734eb0_object0": {
+        "bbox": [
+            0,
+            140,
+            284,
+            237
+        ],
+        "class_id": "0",
+        "image_file": "/workspace/runs/reidentification_results/runs/test_cropped_dataset/images/1716.rf.85ea38b36008beaa72c5d8541f734eb0_object0.jpg",
+        "image_id": "1716.rf.85ea38b36008beaa72c5d8541f734eb0",
+        "label_file": "/workspace/runs/reidentification_results/runs/test_cropped_dataset/labels/1716.rf.85ea38b36008beaa72c5d8541f734eb0_object0.txt"
+    },
+    "1716.rf.85ea38b36008beaa72c5d8541f734eb0_object1": {
+        "bbox": [
+            278,
+            147,
+            415,
+            195
+        ],
+        "class_id": "0",
+        "image_file": "/workspace/runs/reidentification_results/runs/test_cropped_dataset/images/1716.rf.85ea38b36008beaa72c5d8541f734eb0_object1.jpg",
+        "image_id": "1716.rf.85ea38b36008beaa72c5d8541f734eb0",
+        "label_file": "/workspace/runs/reidentification_results/runs/test_cropped_dataset/labels/1716.rf.85ea38b36008beaa72c5d8541f734eb0_object1.txt"
+    },
+    "1722.rf.38b38f2e833309a4f35bfbf0432dffff_object0": {
+        "bbox": [
+            0,
+            63,
+            414,
+            376
+        ],
+        "class_id": "0",
+        "image_file": "/workspace/runs/reidentification_results/runs/test_cropped_dataset/images/1722.rf.38b38f2e833309a4f35bfbf0432dffff_object0.jpg",
+        "image_id": "1722.rf.38b38f2e833309a4f35bfbf0432dffff",
+        "label_file": "/workspace/runs/reidentification_results/runs/test_cropped_dataset/labels/1722.rf.38b38f2e833309a4f35bfbf0432dffff_object0.txt"
+    },
+    "1794.rf.7a03ca09d05e9e2941f768bc8570cb54_object0": {
+        "bbox": [
+            107,
+            24,
+            157,
+            412
+        ],
+        "class_id": "0",
+        "image_file": "/workspace/runs/reidentification_results/runs/test_cropped_dataset/images/1794.rf.7a03ca09d05e9e2941f768bc8570cb54_object0.jpg",
+        "image_id": "1794.rf.7a03ca09d05e9e2941f768bc8570cb54",
+        "label_file": "/workspace/runs/reidentification_results/runs/test_cropped_dataset/labels/1794.rf.7a03ca09d05e9e2941f768bc8570cb54_object0.txt"
+    },
+    "1804.rf.7e39a73f7b0d1c4bdf8094006e0cf495_object0": {
+        "bbox": [
+            1,
+            116,
+            331,
+            172
+        ],
+        "class_id": "0",
+        "image_file": "/workspace/runs/reidentification_results/runs/test_cropped_dataset/images/1804.rf.7e39a73f7b0d1c4bdf8094006e0cf495_object0.jpg",
+        "image_id": "1804.rf.7e39a73f7b0d1c4bdf8094006e0cf495",
+        "label_file": "/workspace/runs/reidentification_results/runs/test_cropped_dataset/labels/1804.rf.7e39a73f7b0d1c4bdf8094006e0cf495_object0.txt"
+    },
+    "1804.rf.7e39a73f7b0d1c4bdf8094006e0cf495_object1": {
+        "bbox": [
+            146,
+            170,
+            221,
+            360
+        ],
+        "class_id": "0",
+        "image_file": "/workspace/runs/reidentification_results/runs/test_cropped_dataset/images/1804.rf.7e39a73f7b0d1c4bdf8094006e0cf495_object1.jpg",
+        "image_id": "1804.rf.7e39a73f7b0d1c4bdf8094006e0cf495",
+        "label_file": "/workspace/runs/reidentification_results/runs/test_cropped_dataset/labels/1804.rf.7e39a73f7b0d1c4bdf8094006e0cf495_object1.txt"
+    },
+    "1806.rf.8c87862452f4ce0232a666c180ec9942_object0": {
+        "bbox": [
+            194,
+            0,
+            338,
+            415
+        ],
+        "class_id": "0",
+        "image_file": "/workspace/runs/reidentification_results/runs/test_cropped_dataset/images/1806.rf.8c87862452f4ce0232a666c180ec9942_object0.jpg",
+        "image_id": "1806.rf.8c87862452f4ce0232a666c180ec9942",
+        "label_file": "/workspace/runs/reidentification_results/runs/test_cropped_dataset/labels/1806.rf.8c87862452f4ce0232a666c180ec9942_object0.txt"
+    },
+    "1813.rf.79f1af872f76dd8b46df4a83ed5f54c6_object0": {
+        "bbox": [
+            0,
+            3,
+            247,
+            415
+        ],
+        "class_id": "0",
+        "image_file": "/workspace/runs/reidentification_results/runs/test_cropped_dataset/images/1813.rf.79f1af872f76dd8b46df4a83ed5f54c6_object0.jpg",
+        "image_id": "1813.rf.79f1af872f76dd8b46df4a83ed5f54c6",
+        "label_file": "/workspace/runs/reidentification_results/runs/test_cropped_dataset/labels/1813.rf.79f1af872f76dd8b46df4a83ed5f54c6_object0.txt"
+    },
+    "1813.rf.79f1af872f76dd8b46df4a83ed5f54c6_object1": {
+        "bbox": [
+            241,
+            6,
+            415,
+            27
+        ],
+        "class_id": "0",
+        "image_file": "/workspace/runs/reidentification_results/runs/test_cropped_dataset/images/1813.rf.79f1af872f76dd8b46df4a83ed5f54c6_object1.jpg",
+        "image_id": "1813.rf.79f1af872f76dd8b46df4a83ed5f54c6",
+        "label_file": "/workspace/runs/reidentification_results/runs/test_cropped_dataset/labels/1813.rf.79f1af872f76dd8b46df4a83ed5f54c6_object1.txt"
+    },
+    "1818.rf.7e52c1687bfb625e86c54c9d71a66d99_object0": {
+        "bbox": [
+            163,
+            4,
+            227,
+            409
+        ],
+        "class_id": "0",
+        "image_file": "/workspace/runs/reidentification_results/runs/test_cropped_dataset/images/1818.rf.7e52c1687bfb625e86c54c9d71a66d99_object0.jpg",
+        "image_id": "1818.rf.7e52c1687bfb625e86c54c9d71a66d99",
+        "label_file": "/workspace/runs/reidentification_results/runs/test_cropped_dataset/labels/1818.rf.7e52c1687bfb625e86c54c9d71a66d99_object0.txt"
+    },
+    "1818.rf.7e52c1687bfb625e86c54c9d71a66d99_object1": {
+        "bbox": [
+            184,
+            2,
+            218,
+            65
+        ],
+        "class_id": "0",
+        "image_file": "/workspace/runs/reidentification_results/runs/test_cropped_dataset/images/1818.rf.7e52c1687bfb625e86c54c9d71a66d99_object1.jpg",
+        "image_id": "1818.rf.7e52c1687bfb625e86c54c9d71a66d99",
+        "label_file": "/workspace/runs/reidentification_results/runs/test_cropped_dataset/labels/1818.rf.7e52c1687bfb625e86c54c9d71a66d99_object1.txt"
+    },
+    "1819.rf.d2d41865c85e1019dc3e8b9daf73c434_object0": {
+        "bbox": [
+            297,
+            0,
+            308,
+            415
+        ],
+        "class_id": "0",
+        "image_file": "/workspace/runs/reidentification_results/runs/test_cropped_dataset/images/1819.rf.d2d41865c85e1019dc3e8b9daf73c434_object0.jpg",
+        "image_id": "1819.rf.d2d41865c85e1019dc3e8b9daf73c434",
+        "label_file": "/workspace/runs/reidentification_results/runs/test_cropped_dataset/labels/1819.rf.d2d41865c85e1019dc3e8b9daf73c434_object0.txt"
+    },
+    "1839.rf.3495cbba8ee9a583ed0dff8d0e5fc0f7_object0": {
+        "bbox": [
+            219,
+            254,
+            310,
+            294
+        ],
+        "class_id": "0",
+        "image_file": "/workspace/runs/reidentification_results/runs/test_cropped_dataset/images/1839.rf.3495cbba8ee9a583ed0dff8d0e5fc0f7_object0.jpg",
+        "image_id": "1839.rf.3495cbba8ee9a583ed0dff8d0e5fc0f7",
+        "label_file": "/workspace/runs/reidentification_results/runs/test_cropped_dataset/labels/1839.rf.3495cbba8ee9a583ed0dff8d0e5fc0f7_object0.txt"
+    },
+    "1896.rf.e718dd26abc98c2645ea37a808039034_object0": {
+        "bbox": [
+            1,
+            156,
+            412,
+            333
+        ],
+        "class_id": "0",
+        "image_file": "/workspace/runs/reidentification_results/runs/test_cropped_dataset/images/1896.rf.e718dd26abc98c2645ea37a808039034_object0.jpg",
+        "image_id": "1896.rf.e718dd26abc98c2645ea37a808039034",
+        "label_file": "/workspace/runs/reidentification_results/runs/test_cropped_dataset/labels/1896.rf.e718dd26abc98c2645ea37a808039034_object0.txt"
+    },
+    "1921.rf.e704f0b0e352f4ac12f23e71ffa6d9ad_object0": {
+        "bbox": [
+            356,
+            14,
+            363,
+            241
+        ],
+        "class_id": "0",
+        "image_file": "/workspace/runs/reidentification_results/runs/test_cropped_dataset/images/1921.rf.e704f0b0e352f4ac12f23e71ffa6d9ad_object0.jpg",
+        "image_id": "1921.rf.e704f0b0e352f4ac12f23e71ffa6d9ad",
+        "label_file": "/workspace/runs/reidentification_results/runs/test_cropped_dataset/labels/1921.rf.e704f0b0e352f4ac12f23e71ffa6d9ad_object0.txt"
+    },
+    "1921.rf.e704f0b0e352f4ac12f23e71ffa6d9ad_object1": {
+        "bbox": [
+            146,
+            253,
+            170,
+            283
+        ],
+        "class_id": "0",
+        "image_file": "/workspace/runs/reidentification_results/runs/test_cropped_dataset/images/1921.rf.e704f0b0e352f4ac12f23e71ffa6d9ad_object1.jpg",
+        "image_id": "1921.rf.e704f0b0e352f4ac12f23e71ffa6d9ad",
+        "label_file": "/workspace/runs/reidentification_results/runs/test_cropped_dataset/labels/1921.rf.e704f0b0e352f4ac12f23e71ffa6d9ad_object1.txt"
+    },
+    "1957.rf.e4ee900c82e7bab356690f56f27959c6_object0": {
+        "bbox": [
+            0,
+            180,
+            266,
+            230
+        ],
+        "class_id": "0",
+        "image_file": "/workspace/runs/reidentification_results/runs/test_cropped_dataset/images/1957.rf.e4ee900c82e7bab356690f56f27959c6_object0.jpg",
+        "image_id": "1957.rf.e4ee900c82e7bab356690f56f27959c6",
+        "label_file": "/workspace/runs/reidentification_results/runs/test_cropped_dataset/labels/1957.rf.e4ee900c82e7bab356690f56f27959c6_object0.txt"
+    },
+    "1957.rf.e4ee900c82e7bab356690f56f27959c6_object1": {
+        "bbox": [
+            263,
+            180,
+            405,
+            204
+        ],
+        "class_id": "0",
+        "image_file": "/workspace/runs/reidentification_results/runs/test_cropped_dataset/images/1957.rf.e4ee900c82e7bab356690f56f27959c6_object1.jpg",
+        "image_id": "1957.rf.e4ee900c82e7bab356690f56f27959c6",
+        "label_file": "/workspace/runs/reidentification_results/runs/test_cropped_dataset/labels/1957.rf.e4ee900c82e7bab356690f56f27959c6_object1.txt"
+    },
+    "1960.rf.a23272eb27c0f5ab6327f98571919ad9_object0": {
+        "bbox": [
+            0,
+            80,
+            299,
+            379
+        ],
+        "class_id": "0",
+        "image_file": "/workspace/runs/reidentification_results/runs/test_cropped_dataset/images/1960.rf.a23272eb27c0f5ab6327f98571919ad9_object0.jpg",
+        "image_id": "1960.rf.a23272eb27c0f5ab6327f98571919ad9",
+        "label_file": "/workspace/runs/reidentification_results/runs/test_cropped_dataset/labels/1960.rf.a23272eb27c0f5ab6327f98571919ad9_object0.txt"
+    },
+    "1974.rf.c900dacf421e72dd3b10be4d3f6e4b40_object0": {
+        "bbox": [
+            3,
+            3,
+            413,
+            411
+        ],
+        "class_id": "0",
+        "image_file": "/workspace/runs/reidentification_results/runs/test_cropped_dataset/images/1974.rf.c900dacf421e72dd3b10be4d3f6e4b40_object0.jpg",
+        "image_id": "1974.rf.c900dacf421e72dd3b10be4d3f6e4b40",
+        "label_file": "/workspace/runs/reidentification_results/runs/test_cropped_dataset/labels/1974.rf.c900dacf421e72dd3b10be4d3f6e4b40_object0.txt"
+    },
+    "1979.rf.d3ee9d85b659ee844d1c26680f05d419_object0": {
+        "bbox": [
+            182,
+            5,
+            236,
+            411
+        ],
+        "class_id": "0",
+        "image_file": "/workspace/runs/reidentification_results/runs/test_cropped_dataset/images/1979.rf.d3ee9d85b659ee844d1c26680f05d419_object0.jpg",
+        "image_id": "1979.rf.d3ee9d85b659ee844d1c26680f05d419",
+        "label_file": "/workspace/runs/reidentification_results/runs/test_cropped_dataset/labels/1979.rf.d3ee9d85b659ee844d1c26680f05d419_object0.txt"
+    },
+    "1979.rf.dea5db582b997afc4acb0f68d74c3b84_object0": {
+        "bbox": [
+            182,
+            5,
+            236,
+            411
+        ],
+        "class_id": "0",
+        "image_file": "/workspace/runs/reidentification_results/runs/test_cropped_dataset/images/1979.rf.dea5db582b997afc4acb0f68d74c3b84_object0.jpg",
+        "image_id": "1979.rf.dea5db582b997afc4acb0f68d74c3b84",
+        "label_file": "/workspace/runs/reidentification_results/runs/test_cropped_dataset/labels/1979.rf.dea5db582b997afc4acb0f68d74c3b84_object0.txt"
+    },
+    "1998.rf.c310ef9093282f4e2e72be168ab5f879_object0": {
+        "bbox": [
+            235,
+            181,
+            376,
+            223
+        ],
+        "class_id": "0",
+        "image_file": "/workspace/runs/reidentification_results/runs/test_cropped_dataset/images/1998.rf.c310ef9093282f4e2e72be168ab5f879_object0.jpg",
+        "image_id": "1998.rf.c310ef9093282f4e2e72be168ab5f879",
+        "label_file": "/workspace/runs/reidentification_results/runs/test_cropped_dataset/labels/1998.rf.c310ef9093282f4e2e72be168ab5f879_object0.txt"
+    },
+    "2015.rf.7ace4a935989f5dd884bd52642f0bcdd_object0": {
+        "bbox": [
+            0,
+            176,
+            415,
+            280
+        ],
+        "class_id": "0",
+        "image_file": "/workspace/runs/reidentification_results/runs/test_cropped_dataset/images/2015.rf.7ace4a935989f5dd884bd52642f0bcdd_object0.jpg",
+        "image_id": "2015.rf.7ace4a935989f5dd884bd52642f0bcdd",
+        "label_file": "/workspace/runs/reidentification_results/runs/test_cropped_dataset/labels/2015.rf.7ace4a935989f5dd884bd52642f0bcdd_object0.txt"
+    },
+    "2026.rf.30a92a40e9e192eb71ac0461019aea44_object0": {
+        "bbox": [
+            221,
+            0,
+            286,
+            415
+        ],
+        "class_id": "0",
+        "image_file": "/workspace/runs/reidentification_results/runs/test_cropped_dataset/images/2026.rf.30a92a40e9e192eb71ac0461019aea44_object0.jpg",
+        "image_id": "2026.rf.30a92a40e9e192eb71ac0461019aea44",
+        "label_file": "/workspace/runs/reidentification_results/runs/test_cropped_dataset/labels/2026.rf.30a92a40e9e192eb71ac0461019aea44_object0.txt"
+    },
+    "2043.rf.37ea25ead4d12143a2825d97dbb5c6a5_object0": {
+        "bbox": [
+            137,
+            0,
+            259,
+            415
+        ],
+        "class_id": "0",
+        "image_file": "/workspace/runs/reidentification_results/runs/test_cropped_dataset/images/2043.rf.37ea25ead4d12143a2825d97dbb5c6a5_object0.jpg",
+        "image_id": "2043.rf.37ea25ead4d12143a2825d97dbb5c6a5",
+        "label_file": "/workspace/runs/reidentification_results/runs/test_cropped_dataset/labels/2043.rf.37ea25ead4d12143a2825d97dbb5c6a5_object0.txt"
+    },
+    "2043.rf.37ea25ead4d12143a2825d97dbb5c6a5_object1": {
+        "bbox": [
+            215,
+            0,
+            324,
+            317
+        ],
+        "class_id": "0",
+        "image_file": "/workspace/runs/reidentification_results/runs/test_cropped_dataset/images/2043.rf.37ea25ead4d12143a2825d97dbb5c6a5_object1.jpg",
+        "image_id": "2043.rf.37ea25ead4d12143a2825d97dbb5c6a5",
+        "label_file": "/workspace/runs/reidentification_results/runs/test_cropped_dataset/labels/2043.rf.37ea25ead4d12143a2825d97dbb5c6a5_object1.txt"
+    },
+    "2064.rf.f9f37327dfaaa571b91ccc5d25cc8039_object0": {
+        "bbox": [
+            181,
+            1,
+            188,
+            51
+        ],
+        "class_id": "0",
+        "image_file": "/workspace/runs/reidentification_results/runs/test_cropped_dataset/images/2064.rf.f9f37327dfaaa571b91ccc5d25cc8039_object0.jpg",
+        "image_id": "2064.rf.f9f37327dfaaa571b91ccc5d25cc8039",
+        "label_file": "/workspace/runs/reidentification_results/runs/test_cropped_dataset/labels/2064.rf.f9f37327dfaaa571b91ccc5d25cc8039_object0.txt"
+    },
+    "2064.rf.f9f37327dfaaa571b91ccc5d25cc8039_object1": {
+        "bbox": [
+            187,
+            17,
+            207,
+            415
+        ],
+        "class_id": "0",
+        "image_file": "/workspace/runs/reidentification_results/runs/test_cropped_dataset/images/2064.rf.f9f37327dfaaa571b91ccc5d25cc8039_object1.jpg",
+        "image_id": "2064.rf.f9f37327dfaaa571b91ccc5d25cc8039",
+        "label_file": "/workspace/runs/reidentification_results/runs/test_cropped_dataset/labels/2064.rf.f9f37327dfaaa571b91ccc5d25cc8039_object1.txt"
+    },
+    "2067.rf.23ed68b28ea7c5e4cbfb234ffa9702ea_object0": {
+        "bbox": [
+            0,
+            0,
+            173,
+            415
+        ],
+        "class_id": "0",
+        "image_file": "/workspace/runs/reidentification_results/runs/test_cropped_dataset/images/2067.rf.23ed68b28ea7c5e4cbfb234ffa9702ea_object0.jpg",
+        "image_id": "2067.rf.23ed68b28ea7c5e4cbfb234ffa9702ea",
+        "label_file": "/workspace/runs/reidentification_results/runs/test_cropped_dataset/labels/2067.rf.23ed68b28ea7c5e4cbfb234ffa9702ea_object0.txt"
+    },
+    "2084.rf.950ff4fcd9bc177e7831cb4c9a2dd6eb_object0": {
+        "bbox": [
+            229,
+            0,
+            274,
+            414
+        ],
+        "class_id": "0",
+        "image_file": "/workspace/runs/reidentification_results/runs/test_cropped_dataset/images/2084.rf.950ff4fcd9bc177e7831cb4c9a2dd6eb_object0.jpg",
+        "image_id": "2084.rf.950ff4fcd9bc177e7831cb4c9a2dd6eb",
+        "label_file": "/workspace/runs/reidentification_results/runs/test_cropped_dataset/labels/2084.rf.950ff4fcd9bc177e7831cb4c9a2dd6eb_object0.txt"
+    },
+    "2091.rf.ab9d969f82e8610c30ec3f7576494f44_object0": {
+        "bbox": [
+            204,
+            0,
+            234,
+            415
+        ],
+        "class_id": "0",
+        "image_file": "/workspace/runs/reidentification_results/runs/test_cropped_dataset/images/2091.rf.ab9d969f82e8610c30ec3f7576494f44_object0.jpg",
+        "image_id": "2091.rf.ab9d969f82e8610c30ec3f7576494f44",
+        "label_file": "/workspace/runs/reidentification_results/runs/test_cropped_dataset/labels/2091.rf.ab9d969f82e8610c30ec3f7576494f44_object0.txt"
+    },
+    "2137.rf.44786d7aeaf45f9497f47125a5bab284_object0": {
+        "bbox": [
+            169,
+            0,
+            289,
+            415
+        ],
+        "class_id": "0",
+        "image_file": "/workspace/runs/reidentification_results/runs/test_cropped_dataset/images/2137.rf.44786d7aeaf45f9497f47125a5bab284_object0.jpg",
+        "image_id": "2137.rf.44786d7aeaf45f9497f47125a5bab284",
+        "label_file": "/workspace/runs/reidentification_results/runs/test_cropped_dataset/labels/2137.rf.44786d7aeaf45f9497f47125a5bab284_object0.txt"
+    },
+    "2137.rf.44786d7aeaf45f9497f47125a5bab284_object1": {
+        "bbox": [
+            275,
+            41,
+            278,
+            68
+        ],
+        "class_id": "0",
+        "image_file": "/workspace/runs/reidentification_results/runs/test_cropped_dataset/images/2137.rf.44786d7aeaf45f9497f47125a5bab284_object1.jpg",
+        "image_id": "2137.rf.44786d7aeaf45f9497f47125a5bab284",
+        "label_file": "/workspace/runs/reidentification_results/runs/test_cropped_dataset/labels/2137.rf.44786d7aeaf45f9497f47125a5bab284_object1.txt"
+    },
+    "2147.rf.68491b477ce9af3d84c550103dd511e3_object0": {
+        "bbox": [
+            280,
+            0,
+            374,
+            415
+        ],
+        "class_id": "0",
+        "image_file": "/workspace/runs/reidentification_results/runs/test_cropped_dataset/images/2147.rf.68491b477ce9af3d84c550103dd511e3_object0.jpg",
+        "image_id": "2147.rf.68491b477ce9af3d84c550103dd511e3",
+        "label_file": "/workspace/runs/reidentification_results/runs/test_cropped_dataset/labels/2147.rf.68491b477ce9af3d84c550103dd511e3_object0.txt"
+    },
+    "2147.rf.68491b477ce9af3d84c550103dd511e3_object1": {
+        "bbox": [
+            351,
+            281,
+            415,
+            414
+        ],
+        "class_id": "0",
+        "image_file": "/workspace/runs/reidentification_results/runs/test_cropped_dataset/images/2147.rf.68491b477ce9af3d84c550103dd511e3_object1.jpg",
+        "image_id": "2147.rf.68491b477ce9af3d84c550103dd511e3",
+        "label_file": "/workspace/runs/reidentification_results/runs/test_cropped_dataset/labels/2147.rf.68491b477ce9af3d84c550103dd511e3_object1.txt"
+    },
+    "2197.rf.b97a6e0452cf8a431fdcb24bfb4d643d_object0": {
+        "bbox": [
+            0,
+            196,
+            415,
+            257
+        ],
+        "class_id": "0",
+        "image_file": "/workspace/runs/reidentification_results/runs/test_cropped_dataset/images/2197.rf.b97a6e0452cf8a431fdcb24bfb4d643d_object0.jpg",
+        "image_id": "2197.rf.b97a6e0452cf8a431fdcb24bfb4d643d",
+        "label_file": "/workspace/runs/reidentification_results/runs/test_cropped_dataset/labels/2197.rf.b97a6e0452cf8a431fdcb24bfb4d643d_object0.txt"
+    },
+    "2205.rf.eaf969e5ee1bad463953679d0f0a317f_object0": {
+        "bbox": [
+            112,
+            0,
+            133,
+            104
+        ],
+        "class_id": "0",
+        "image_file": "/workspace/runs/reidentification_results/runs/test_cropped_dataset/images/2205.rf.eaf969e5ee1bad463953679d0f0a317f_object0.jpg",
+        "image_id": "2205.rf.eaf969e5ee1bad463953679d0f0a317f",
+        "label_file": "/workspace/runs/reidentification_results/runs/test_cropped_dataset/labels/2205.rf.eaf969e5ee1bad463953679d0f0a317f_object0.txt"
+    },
+    "2205.rf.eaf969e5ee1bad463953679d0f0a317f_object1": {
+        "bbox": [
+            135,
+            99,
+            154,
+            229
+        ],
+        "class_id": "0",
+        "image_file": "/workspace/runs/reidentification_results/runs/test_cropped_dataset/images/2205.rf.eaf969e5ee1bad463953679d0f0a317f_object1.jpg",
+        "image_id": "2205.rf.eaf969e5ee1bad463953679d0f0a317f",
+        "label_file": "/workspace/runs/reidentification_results/runs/test_cropped_dataset/labels/2205.rf.eaf969e5ee1bad463953679d0f0a317f_object1.txt"
+    },
+    "2205.rf.eaf969e5ee1bad463953679d0f0a317f_object2": {
+        "bbox": [
+            15,
+            187,
+            354,
+            415
+        ],
+        "class_id": "0",
+        "image_file": "/workspace/runs/reidentification_results/runs/test_cropped_dataset/images/2205.rf.eaf969e5ee1bad463953679d0f0a317f_object2.jpg",
+        "image_id": "2205.rf.eaf969e5ee1bad463953679d0f0a317f",
+        "label_file": "/workspace/runs/reidentification_results/runs/test_cropped_dataset/labels/2205.rf.eaf969e5ee1bad463953679d0f0a317f_object2.txt"
+    },
+    "2222.rf.bfd72b1a6235ed53983e11289c619b4e_object0": {
+        "bbox": [
+            0,
+            263,
+            22,
+            275
+        ],
+        "class_id": "0",
+        "image_file": "/workspace/runs/reidentification_results/runs/test_cropped_dataset/images/2222.rf.bfd72b1a6235ed53983e11289c619b4e_object0.jpg",
+        "image_id": "2222.rf.bfd72b1a6235ed53983e11289c619b4e",
+        "label_file": "/workspace/runs/reidentification_results/runs/test_cropped_dataset/labels/2222.rf.bfd72b1a6235ed53983e11289c619b4e_object0.txt"
+    },
+    "2222.rf.bfd72b1a6235ed53983e11289c619b4e_object1": {
+        "bbox": [
+            12,
+            257,
+            63,
+            268
+        ],
+        "class_id": "0",
+        "image_file": "/workspace/runs/reidentification_results/runs/test_cropped_dataset/images/2222.rf.bfd72b1a6235ed53983e11289c619b4e_object1.jpg",
+        "image_id": "2222.rf.bfd72b1a6235ed53983e11289c619b4e",
+        "label_file": "/workspace/runs/reidentification_results/runs/test_cropped_dataset/labels/2222.rf.bfd72b1a6235ed53983e11289c619b4e_object1.txt"
+    },
+    "2222.rf.bfd72b1a6235ed53983e11289c619b4e_object2": {
+        "bbox": [
+            56,
+            259,
+            90,
+            271
+        ],
+        "class_id": "0",
+        "image_file": "/workspace/runs/reidentification_results/runs/test_cropped_dataset/images/2222.rf.bfd72b1a6235ed53983e11289c619b4e_object2.jpg",
+        "image_id": "2222.rf.bfd72b1a6235ed53983e11289c619b4e",
+        "label_file": "/workspace/runs/reidentification_results/runs/test_cropped_dataset/labels/2222.rf.bfd72b1a6235ed53983e11289c619b4e_object2.txt"
+    },
+    "2222.rf.bfd72b1a6235ed53983e11289c619b4e_object3": {
+        "bbox": [
+            90,
+            229,
+            156,
+            260
+        ],
+        "class_id": "0",
+        "image_file": "/workspace/runs/reidentification_results/runs/test_cropped_dataset/images/2222.rf.bfd72b1a6235ed53983e11289c619b4e_object3.jpg",
+        "image_id": "2222.rf.bfd72b1a6235ed53983e11289c619b4e",
+        "label_file": "/workspace/runs/reidentification_results/runs/test_cropped_dataset/labels/2222.rf.bfd72b1a6235ed53983e11289c619b4e_object3.txt"
+    },
+    "2222.rf.bfd72b1a6235ed53983e11289c619b4e_object4": {
+        "bbox": [
+            149,
+            0,
+            415,
+            284
+        ],
+        "class_id": "0",
+        "image_file": "/workspace/runs/reidentification_results/runs/test_cropped_dataset/images/2222.rf.bfd72b1a6235ed53983e11289c619b4e_object4.jpg",
+        "image_id": "2222.rf.bfd72b1a6235ed53983e11289c619b4e",
+        "label_file": "/workspace/runs/reidentification_results/runs/test_cropped_dataset/labels/2222.rf.bfd72b1a6235ed53983e11289c619b4e_object4.txt"
+    },
+    "2232.rf.93366df80c896bda322de47beba47441_object0": {
+        "bbox": [
+            0,
+            168,
+            415,
+            233
+        ],
+        "class_id": "0",
+        "image_file": "/workspace/runs/reidentification_results/runs/test_cropped_dataset/images/2232.rf.93366df80c896bda322de47beba47441_object0.jpg",
+        "image_id": "2232.rf.93366df80c896bda322de47beba47441",
+        "label_file": "/workspace/runs/reidentification_results/runs/test_cropped_dataset/labels/2232.rf.93366df80c896bda322de47beba47441_object0.txt"
+    },
+    "2233.rf.48068254cb62ce6f233708947ac13b1c_object0": {
+        "bbox": [
+            0,
+            177,
+            415,
+            242
+        ],
+        "class_id": "0",
+        "image_file": "/workspace/runs/reidentification_results/runs/test_cropped_dataset/images/2233.rf.48068254cb62ce6f233708947ac13b1c_object0.jpg",
+        "image_id": "2233.rf.48068254cb62ce6f233708947ac13b1c",
+        "label_file": "/workspace/runs/reidentification_results/runs/test_cropped_dataset/labels/2233.rf.48068254cb62ce6f233708947ac13b1c_object0.txt"
+    },
+    "2240.rf.66f2163089851cb1d7874b913e592b94_object0": {
+        "bbox": [
+            140,
+            237,
+            163,
+            414
+        ],
+        "class_id": "0",
+        "image_file": "/workspace/runs/reidentification_results/runs/test_cropped_dataset/images/2240.rf.66f2163089851cb1d7874b913e592b94_object0.jpg",
+        "image_id": "2240.rf.66f2163089851cb1d7874b913e592b94",
+        "label_file": "/workspace/runs/reidentification_results/runs/test_cropped_dataset/labels/2240.rf.66f2163089851cb1d7874b913e592b94_object0.txt"
+    },
+    "2240.rf.66f2163089851cb1d7874b913e592b94_object1": {
+        "bbox": [
+            279,
+            20,
+            292,
+            66
+        ],
+        "class_id": "0",
+        "image_file": "/workspace/runs/reidentification_results/runs/test_cropped_dataset/images/2240.rf.66f2163089851cb1d7874b913e592b94_object1.jpg",
+        "image_id": "2240.rf.66f2163089851cb1d7874b913e592b94",
+        "label_file": "/workspace/runs/reidentification_results/runs/test_cropped_dataset/labels/2240.rf.66f2163089851cb1d7874b913e592b94_object1.txt"
+    },
+    "2243.rf.97ce3609d517af6979f6d5db3295814f_object0": {
+        "bbox": [
+            245,
+            0,
+            289,
+            415
+        ],
+        "class_id": "0",
+        "image_file": "/workspace/runs/reidentification_results/runs/test_cropped_dataset/images/2243.rf.97ce3609d517af6979f6d5db3295814f_object0.jpg",
+        "image_id": "2243.rf.97ce3609d517af6979f6d5db3295814f",
+        "label_file": "/workspace/runs/reidentification_results/runs/test_cropped_dataset/labels/2243.rf.97ce3609d517af6979f6d5db3295814f_object0.txt"
+    },
+    "2252.rf.87849e818065fa8392978ab64926d339_object0": {
+        "bbox": [
+            0,
+            184,
+            415,
+            251
+        ],
+        "class_id": "0",
+        "image_file": "/workspace/runs/reidentification_results/runs/test_cropped_dataset/images/2252.rf.87849e818065fa8392978ab64926d339_object0.jpg",
+        "image_id": "2252.rf.87849e818065fa8392978ab64926d339",
+        "label_file": "/workspace/runs/reidentification_results/runs/test_cropped_dataset/labels/2252.rf.87849e818065fa8392978ab64926d339_object0.txt"
+    },
+    "2271.rf.8da6d46618460757719f6df2f8d89297_object0": {
+        "bbox": [
+            193,
+            0,
+            247,
+            413
+        ],
+        "class_id": "0",
+        "image_file": "/workspace/runs/reidentification_results/runs/test_cropped_dataset/images/2271.rf.8da6d46618460757719f6df2f8d89297_object0.jpg",
+        "image_id": "2271.rf.8da6d46618460757719f6df2f8d89297",
+        "label_file": "/workspace/runs/reidentification_results/runs/test_cropped_dataset/labels/2271.rf.8da6d46618460757719f6df2f8d89297_object0.txt"
+    },
+    "2274.rf.5712706f169ad5ab788f546227533d28_object0": {
+        "bbox": [
+            265,
+            354,
+            277,
+            413
+        ],
+        "class_id": "0",
+        "image_file": "/workspace/runs/reidentification_results/runs/test_cropped_dataset/images/2274.rf.5712706f169ad5ab788f546227533d28_object0.jpg",
+        "image_id": "2274.rf.5712706f169ad5ab788f546227533d28",
+        "label_file": "/workspace/runs/reidentification_results/runs/test_cropped_dataset/labels/2274.rf.5712706f169ad5ab788f546227533d28_object0.txt"
+    },
+    "2274.rf.5712706f169ad5ab788f546227533d28_object1": {
+        "bbox": [
+            268,
+            257,
+            276,
+            347
+        ],
+        "class_id": "0",
+        "image_file": "/workspace/runs/reidentification_results/runs/test_cropped_dataset/images/2274.rf.5712706f169ad5ab788f546227533d28_object1.jpg",
+        "image_id": "2274.rf.5712706f169ad5ab788f546227533d28",
+        "label_file": "/workspace/runs/reidentification_results/runs/test_cropped_dataset/labels/2274.rf.5712706f169ad5ab788f546227533d28_object1.txt"
+    },
+    "2274.rf.5712706f169ad5ab788f546227533d28_object2": {
+        "bbox": [
+            266,
+            210,
+            283,
+            258
+        ],
+        "class_id": "0",
+        "image_file": "/workspace/runs/reidentification_results/runs/test_cropped_dataset/images/2274.rf.5712706f169ad5ab788f546227533d28_object2.jpg",
+        "image_id": "2274.rf.5712706f169ad5ab788f546227533d28",
+        "label_file": "/workspace/runs/reidentification_results/runs/test_cropped_dataset/labels/2274.rf.5712706f169ad5ab788f546227533d28_object2.txt"
+    },
+    "2274.rf.5712706f169ad5ab788f546227533d28_object3": {
+        "bbox": [
+            249,
+            81,
+            265,
+            185
+        ],
+        "class_id": "0",
+        "image_file": "/workspace/runs/reidentification_results/runs/test_cropped_dataset/images/2274.rf.5712706f169ad5ab788f546227533d28_object3.jpg",
+        "image_id": "2274.rf.5712706f169ad5ab788f546227533d28",
+        "label_file": "/workspace/runs/reidentification_results/runs/test_cropped_dataset/labels/2274.rf.5712706f169ad5ab788f546227533d28_object3.txt"
+    },
+    "2274.rf.5712706f169ad5ab788f546227533d28_object4": {
+        "bbox": [
+            239,
+            1,
+            251,
+            61
+        ],
+        "class_id": "0",
+        "image_file": "/workspace/runs/reidentification_results/runs/test_cropped_dataset/images/2274.rf.5712706f169ad5ab788f546227533d28_object4.jpg",
+        "image_id": "2274.rf.5712706f169ad5ab788f546227533d28",
+        "label_file": "/workspace/runs/reidentification_results/runs/test_cropped_dataset/labels/2274.rf.5712706f169ad5ab788f546227533d28_object4.txt"
+    },
+    "2275.rf.586655e669fa91476d091094ff24d359_object0": {
+        "bbox": [
+            0,
+            199,
+            415,
+            284
+        ],
+        "class_id": "0",
+        "image_file": "/workspace/runs/reidentification_results/runs/test_cropped_dataset/images/2275.rf.586655e669fa91476d091094ff24d359_object0.jpg",
+        "image_id": "2275.rf.586655e669fa91476d091094ff24d359",
+        "label_file": "/workspace/runs/reidentification_results/runs/test_cropped_dataset/labels/2275.rf.586655e669fa91476d091094ff24d359_object0.txt"
+    },
+    "2275.rf.586655e669fa91476d091094ff24d359_object1": {
+        "bbox": [
+            179,
+            284,
+            207,
+            406
+        ],
+        "class_id": "0",
+        "image_file": "/workspace/runs/reidentification_results/runs/test_cropped_dataset/images/2275.rf.586655e669fa91476d091094ff24d359_object1.jpg",
+        "image_id": "2275.rf.586655e669fa91476d091094ff24d359",
+        "label_file": "/workspace/runs/reidentification_results/runs/test_cropped_dataset/labels/2275.rf.586655e669fa91476d091094ff24d359_object1.txt"
+    },
+    "2323.rf.06768caef93b3a44d3c59325a03230eb_object0": {
+        "bbox": [
+            239,
+            0,
+            317,
+            414
+        ],
+        "class_id": "0",
+        "image_file": "/workspace/runs/reidentification_results/runs/test_cropped_dataset/images/2323.rf.06768caef93b3a44d3c59325a03230eb_object0.jpg",
+        "image_id": "2323.rf.06768caef93b3a44d3c59325a03230eb",
+        "label_file": "/workspace/runs/reidentification_results/runs/test_cropped_dataset/labels/2323.rf.06768caef93b3a44d3c59325a03230eb_object0.txt"
+    },
+    "2339.rf.998318533e4ed9c7bcb7d32a307f3ef5_object0": {
+        "bbox": [
+            0,
+            196,
+            414,
+            211
+        ],
+        "class_id": "0",
+        "image_file": "/workspace/runs/reidentification_results/runs/test_cropped_dataset/images/2339.rf.998318533e4ed9c7bcb7d32a307f3ef5_object0.jpg",
+        "image_id": "2339.rf.998318533e4ed9c7bcb7d32a307f3ef5",
+        "label_file": "/workspace/runs/reidentification_results/runs/test_cropped_dataset/labels/2339.rf.998318533e4ed9c7bcb7d32a307f3ef5_object0.txt"
+    },
+    "2363.rf.66dcd237b513dd108c4b8e9ffec97d8d_object0": {
+        "bbox": [
+            166,
+            0,
+            415,
+            415
+        ],
+        "class_id": "0",
+        "image_file": "/workspace/runs/reidentification_results/runs/test_cropped_dataset/images/2363.rf.66dcd237b513dd108c4b8e9ffec97d8d_object0.jpg",
+        "image_id": "2363.rf.66dcd237b513dd108c4b8e9ffec97d8d",
+        "label_file": "/workspace/runs/reidentification_results/runs/test_cropped_dataset/labels/2363.rf.66dcd237b513dd108c4b8e9ffec97d8d_object0.txt"
+    },
+    "2369.rf.a3202ed06db3bc7523390481441fb197_object0": {
+        "bbox": [
+            192,
+            0,
+            241,
+            414
+        ],
+        "class_id": "0",
+        "image_file": "/workspace/runs/reidentification_results/runs/test_cropped_dataset/images/2369.rf.a3202ed06db3bc7523390481441fb197_object0.jpg",
+        "image_id": "2369.rf.a3202ed06db3bc7523390481441fb197",
+        "label_file": "/workspace/runs/reidentification_results/runs/test_cropped_dataset/labels/2369.rf.a3202ed06db3bc7523390481441fb197_object0.txt"
+    },
+    "2369.rf.a3202ed06db3bc7523390481441fb197_object1": {
+        "bbox": [
+            194,
+            0,
+            240,
+            413
+        ],
+        "class_id": "0",
+        "image_file": "/workspace/runs/reidentification_results/runs/test_cropped_dataset/images/2369.rf.a3202ed06db3bc7523390481441fb197_object1.jpg",
+        "image_id": "2369.rf.a3202ed06db3bc7523390481441fb197",
+        "label_file": "/workspace/runs/reidentification_results/runs/test_cropped_dataset/labels/2369.rf.a3202ed06db3bc7523390481441fb197_object1.txt"
+    },
+    "2373.rf.e46190ac62dfc1db6f49d8a51cb3c7f7_object0": {
+        "bbox": [
+            183,
+            0,
+            229,
+            415
+        ],
+        "class_id": "0",
+        "image_file": "/workspace/runs/reidentification_results/runs/test_cropped_dataset/images/2373.rf.e46190ac62dfc1db6f49d8a51cb3c7f7_object0.jpg",
+        "image_id": "2373.rf.e46190ac62dfc1db6f49d8a51cb3c7f7",
+        "label_file": "/workspace/runs/reidentification_results/runs/test_cropped_dataset/labels/2373.rf.e46190ac62dfc1db6f49d8a51cb3c7f7_object0.txt"
+    },
+    "2388.rf.dd8dc351bb67d6bfc9ae331dae59cb0d_object0": {
+        "bbox": [
+            0,
+            183,
+            408,
+            287
+        ],
+        "class_id": "0",
+        "image_file": "/workspace/runs/reidentification_results/runs/test_cropped_dataset/images/2388.rf.dd8dc351bb67d6bfc9ae331dae59cb0d_object0.jpg",
+        "image_id": "2388.rf.dd8dc351bb67d6bfc9ae331dae59cb0d",
+        "label_file": "/workspace/runs/reidentification_results/runs/test_cropped_dataset/labels/2388.rf.dd8dc351bb67d6bfc9ae331dae59cb0d_object0.txt"
+    },
+    "2400.rf.e2dbfc7baf8e55f3ee71cde186d199c2_object0": {
+        "bbox": [
+            230,
+            241,
+            241,
+            415
+        ],
+        "class_id": "0",
+        "image_file": "/workspace/runs/reidentification_results/runs/test_cropped_dataset/images/2400.rf.e2dbfc7baf8e55f3ee71cde186d199c2_object0.jpg",
+        "image_id": "2400.rf.e2dbfc7baf8e55f3ee71cde186d199c2",
+        "label_file": "/workspace/runs/reidentification_results/runs/test_cropped_dataset/labels/2400.rf.e2dbfc7baf8e55f3ee71cde186d199c2_object0.txt"
+    },
+    "2400.rf.e2dbfc7baf8e55f3ee71cde186d199c2_object1": {
+        "bbox": [
+            174,
+            0,
+            225,
+            334
+        ],
+        "class_id": "0",
+        "image_file": "/workspace/runs/reidentification_results/runs/test_cropped_dataset/images/2400.rf.e2dbfc7baf8e55f3ee71cde186d199c2_object1.jpg",
+        "image_id": "2400.rf.e2dbfc7baf8e55f3ee71cde186d199c2",
+        "label_file": "/workspace/runs/reidentification_results/runs/test_cropped_dataset/labels/2400.rf.e2dbfc7baf8e55f3ee71cde186d199c2_object1.txt"
+    },
+    "2400.rf.e2dbfc7baf8e55f3ee71cde186d199c2_object2": {
+        "bbox": [
+            194,
+            62,
+            215,
+            173
+        ],
+        "class_id": "0",
+        "image_file": "/workspace/runs/reidentification_results/runs/test_cropped_dataset/images/2400.rf.e2dbfc7baf8e55f3ee71cde186d199c2_object2.jpg",
+        "image_id": "2400.rf.e2dbfc7baf8e55f3ee71cde186d199c2",
+        "label_file": "/workspace/runs/reidentification_results/runs/test_cropped_dataset/labels/2400.rf.e2dbfc7baf8e55f3ee71cde186d199c2_object2.txt"
+    },
+    "2412.rf.e84608f5da46f7643e7da0b7646e6db4_object0": {
+        "bbox": [
+            228,
+            0,
+            282,
+            415
+        ],
+        "class_id": "0",
+        "image_file": "/workspace/runs/reidentification_results/runs/test_cropped_dataset/images/2412.rf.e84608f5da46f7643e7da0b7646e6db4_object0.jpg",
+        "image_id": "2412.rf.e84608f5da46f7643e7da0b7646e6db4",
+        "label_file": "/workspace/runs/reidentification_results/runs/test_cropped_dataset/labels/2412.rf.e84608f5da46f7643e7da0b7646e6db4_object0.txt"
+    },
+    "2413.rf.669f2c0f7a1d89a840314907bb8be452_object0": {
+        "bbox": [
+            220,
+            0,
+            247,
+            411
+        ],
+        "class_id": "0",
+        "image_file": "/workspace/runs/reidentification_results/runs/test_cropped_dataset/images/2413.rf.669f2c0f7a1d89a840314907bb8be452_object0.jpg",
+        "image_id": "2413.rf.669f2c0f7a1d89a840314907bb8be452",
+        "label_file": "/workspace/runs/reidentification_results/runs/test_cropped_dataset/labels/2413.rf.669f2c0f7a1d89a840314907bb8be452_object0.txt"
+    },
+    "2416.rf.0daa5b77c15dedd67a5b013075476db8_object0": {
+        "bbox": [
+            0,
+            158,
+            415,
+            196
+        ],
+        "class_id": "0",
+        "image_file": "/workspace/runs/reidentification_results/runs/test_cropped_dataset/images/2416.rf.0daa5b77c15dedd67a5b013075476db8_object0.jpg",
+        "image_id": "2416.rf.0daa5b77c15dedd67a5b013075476db8",
+        "label_file": "/workspace/runs/reidentification_results/runs/test_cropped_dataset/labels/2416.rf.0daa5b77c15dedd67a5b013075476db8_object0.txt"
+    },
+    "2426.rf.ae04998dc00ce092b840c07229072282_object0": {
+        "bbox": [
+            186,
+            0,
+            393,
+            415
+        ],
+        "class_id": "0",
+        "image_file": "/workspace/runs/reidentification_results/runs/test_cropped_dataset/images/2426.rf.ae04998dc00ce092b840c07229072282_object0.jpg",
+        "image_id": "2426.rf.ae04998dc00ce092b840c07229072282",
+        "label_file": "/workspace/runs/reidentification_results/runs/test_cropped_dataset/labels/2426.rf.ae04998dc00ce092b840c07229072282_object0.txt"
+    },
+    "2437.rf.0d98e6b224e34447aafdf882383ea14a_object0": {
+        "bbox": [
+            171,
+            0,
+            355,
+            415
+        ],
+        "class_id": "0",
+        "image_file": "/workspace/runs/reidentification_results/runs/test_cropped_dataset/images/2437.rf.0d98e6b224e34447aafdf882383ea14a_object0.jpg",
+        "image_id": "2437.rf.0d98e6b224e34447aafdf882383ea14a",
+        "label_file": "/workspace/runs/reidentification_results/runs/test_cropped_dataset/labels/2437.rf.0d98e6b224e34447aafdf882383ea14a_object0.txt"
+    },
+    "2454.rf.98ca60a89bb835f7ef56315930fdef1d_object0": {
+        "bbox": [
+            175,
+            0,
+            207,
+            415
+        ],
+        "class_id": "0",
+        "image_file": "/workspace/runs/reidentification_results/runs/test_cropped_dataset/images/2454.rf.98ca60a89bb835f7ef56315930fdef1d_object0.jpg",
+        "image_id": "2454.rf.98ca60a89bb835f7ef56315930fdef1d",
+        "label_file": "/workspace/runs/reidentification_results/runs/test_cropped_dataset/labels/2454.rf.98ca60a89bb835f7ef56315930fdef1d_object0.txt"
+    },
+    "2470.rf.3bba055020993dc304c435353cfd1818_object0": {
+        "bbox": [
+            157,
+            0,
+            191,
+            415
+        ],
+        "class_id": "0",
+        "image_file": "/workspace/runs/reidentification_results/runs/test_cropped_dataset/images/2470.rf.3bba055020993dc304c435353cfd1818_object0.jpg",
+        "image_id": "2470.rf.3bba055020993dc304c435353cfd1818",
+        "label_file": "/workspace/runs/reidentification_results/runs/test_cropped_dataset/labels/2470.rf.3bba055020993dc304c435353cfd1818_object0.txt"
+    },
+    "2506.rf.0293f921d67e517ebc9ee35b7c32dc63_object0": {
+        "bbox": [
+            228,
+            145,
+            265,
+            415
+        ],
+        "class_id": "0",
+        "image_file": "/workspace/runs/reidentification_results/runs/test_cropped_dataset/images/2506.rf.0293f921d67e517ebc9ee35b7c32dc63_object0.jpg",
+        "image_id": "2506.rf.0293f921d67e517ebc9ee35b7c32dc63",
+        "label_file": "/workspace/runs/reidentification_results/runs/test_cropped_dataset/labels/2506.rf.0293f921d67e517ebc9ee35b7c32dc63_object0.txt"
+    },
+    "2506.rf.0293f921d67e517ebc9ee35b7c32dc63_object1": {
+        "bbox": [
+            261,
+            2,
+            276,
+            141
+        ],
+        "class_id": "0",
+        "image_file": "/workspace/runs/reidentification_results/runs/test_cropped_dataset/images/2506.rf.0293f921d67e517ebc9ee35b7c32dc63_object1.jpg",
+        "image_id": "2506.rf.0293f921d67e517ebc9ee35b7c32dc63",
+        "label_file": "/workspace/runs/reidentification_results/runs/test_cropped_dataset/labels/2506.rf.0293f921d67e517ebc9ee35b7c32dc63_object1.txt"
+    },
+    "2515.rf.ff5e3199ed1dd044ecd274b38761e272_object0": {
+        "bbox": [
+            170,
+            1,
+            263,
+            413
+        ],
+        "class_id": "0",
+        "image_file": "/workspace/runs/reidentification_results/runs/test_cropped_dataset/images/2515.rf.ff5e3199ed1dd044ecd274b38761e272_object0.jpg",
+        "image_id": "2515.rf.ff5e3199ed1dd044ecd274b38761e272",
+        "label_file": "/workspace/runs/reidentification_results/runs/test_cropped_dataset/labels/2515.rf.ff5e3199ed1dd044ecd274b38761e272_object0.txt"
+    },
+    "2531.rf.5984304ff6cfd2e3dd5c21f219d415e9_object0": {
+        "bbox": [
+            226,
+            195,
+            252,
+            415
+        ],
+        "class_id": "0",
+        "image_file": "/workspace/runs/reidentification_results/runs/test_cropped_dataset/images/2531.rf.5984304ff6cfd2e3dd5c21f219d415e9_object0.jpg",
+        "image_id": "2531.rf.5984304ff6cfd2e3dd5c21f219d415e9",
+        "label_file": "/workspace/runs/reidentification_results/runs/test_cropped_dataset/labels/2531.rf.5984304ff6cfd2e3dd5c21f219d415e9_object0.txt"
+    },
+    "2531.rf.5984304ff6cfd2e3dd5c21f219d415e9_object1": {
+        "bbox": [
+            245,
+            257,
+            261,
+            316
+        ],
+        "class_id": "0",
+        "image_file": "/workspace/runs/reidentification_results/runs/test_cropped_dataset/images/2531.rf.5984304ff6cfd2e3dd5c21f219d415e9_object1.jpg",
+        "image_id": "2531.rf.5984304ff6cfd2e3dd5c21f219d415e9",
+        "label_file": "/workspace/runs/reidentification_results/runs/test_cropped_dataset/labels/2531.rf.5984304ff6cfd2e3dd5c21f219d415e9_object1.txt"
+    },
+    "2531.rf.5984304ff6cfd2e3dd5c21f219d415e9_object2": {
+        "bbox": [
+            162,
+            0,
+            224,
+            196
+        ],
+        "class_id": "0",
+        "image_file": "/workspace/runs/reidentification_results/runs/test_cropped_dataset/images/2531.rf.5984304ff6cfd2e3dd5c21f219d415e9_object2.jpg",
+        "image_id": "2531.rf.5984304ff6cfd2e3dd5c21f219d415e9",
+        "label_file": "/workspace/runs/reidentification_results/runs/test_cropped_dataset/labels/2531.rf.5984304ff6cfd2e3dd5c21f219d415e9_object2.txt"
+    },
+    "2535.rf.1c9939260116325701f7944151a9aeb1_object0": {
+        "bbox": [
+            262,
+            28,
+            309,
+            415
+        ],
+        "class_id": "0",
+        "image_file": "/workspace/runs/reidentification_results/runs/test_cropped_dataset/images/2535.rf.1c9939260116325701f7944151a9aeb1_object0.jpg",
+        "image_id": "2535.rf.1c9939260116325701f7944151a9aeb1",
+        "label_file": "/workspace/runs/reidentification_results/runs/test_cropped_dataset/labels/2535.rf.1c9939260116325701f7944151a9aeb1_object0.txt"
+    },
+    "2535.rf.1c9939260116325701f7944151a9aeb1_object1": {
+        "bbox": [
+            288,
+            1,
+            311,
+            80
+        ],
+        "class_id": "0",
+        "image_file": "/workspace/runs/reidentification_results/runs/test_cropped_dataset/images/2535.rf.1c9939260116325701f7944151a9aeb1_object1.jpg",
+        "image_id": "2535.rf.1c9939260116325701f7944151a9aeb1",
+        "label_file": "/workspace/runs/reidentification_results/runs/test_cropped_dataset/labels/2535.rf.1c9939260116325701f7944151a9aeb1_object1.txt"
+    },
+    "2555.rf.8ce6a08bbea2d1ea1693f796bd43e9a3_object0": {
+        "bbox": [
+            0,
+            214,
+            415,
+            259
+        ],
+        "class_id": "0",
+        "image_file": "/workspace/runs/reidentification_results/runs/test_cropped_dataset/images/2555.rf.8ce6a08bbea2d1ea1693f796bd43e9a3_object0.jpg",
+        "image_id": "2555.rf.8ce6a08bbea2d1ea1693f796bd43e9a3",
+        "label_file": "/workspace/runs/reidentification_results/runs/test_cropped_dataset/labels/2555.rf.8ce6a08bbea2d1ea1693f796bd43e9a3_object0.txt"
+    },
+    "2575.rf.702ecb64c7c46731d4c1896e1221bcb7_object0": {
+        "bbox": [
+            213,
+            0,
+            234,
+            414
+        ],
+        "class_id": "0",
+        "image_file": "/workspace/runs/reidentification_results/runs/test_cropped_dataset/images/2575.rf.702ecb64c7c46731d4c1896e1221bcb7_object0.jpg",
+        "image_id": "2575.rf.702ecb64c7c46731d4c1896e1221bcb7",
+        "label_file": "/workspace/runs/reidentification_results/runs/test_cropped_dataset/labels/2575.rf.702ecb64c7c46731d4c1896e1221bcb7_object0.txt"
+    },
+    "2584.rf.ae6d3c785f229ad271065776e4263d7f_object0": {
+        "bbox": [
+            118,
+            0,
+            415,
+            415
+        ],
+        "class_id": "0",
+        "image_file": "/workspace/runs/reidentification_results/runs/test_cropped_dataset/images/2584.rf.ae6d3c785f229ad271065776e4263d7f_object0.jpg",
+        "image_id": "2584.rf.ae6d3c785f229ad271065776e4263d7f",
+        "label_file": "/workspace/runs/reidentification_results/runs/test_cropped_dataset/labels/2584.rf.ae6d3c785f229ad271065776e4263d7f_object0.txt"
+    },
+    "3018.rf.8080fab394ada475a530ab47db3dc637_object0": {
+        "bbox": [
+            138,
+            0,
+            269,
+            414
+        ],
+        "class_id": "0",
+        "image_file": "/workspace/runs/reidentification_results/runs/test_cropped_dataset/images/3018.rf.8080fab394ada475a530ab47db3dc637_object0.jpg",
+        "image_id": "3018.rf.8080fab394ada475a530ab47db3dc637",
+        "label_file": "/workspace/runs/reidentification_results/runs/test_cropped_dataset/labels/3018.rf.8080fab394ada475a530ab47db3dc637_object0.txt"
+    },
+    "3023.rf.6e959c0e312734aaf3a0c0486fc4a906_object0": {
+        "bbox": [
+            192,
+            4,
+            231,
+            415
+        ],
+        "class_id": "0",
+        "image_file": "/workspace/runs/reidentification_results/runs/test_cropped_dataset/images/3023.rf.6e959c0e312734aaf3a0c0486fc4a906_object0.jpg",
+        "image_id": "3023.rf.6e959c0e312734aaf3a0c0486fc4a906",
+        "label_file": "/workspace/runs/reidentification_results/runs/test_cropped_dataset/labels/3023.rf.6e959c0e312734aaf3a0c0486fc4a906_object0.txt"
+    },
+    "3049.rf.4cf26f933dc21c9d1fda9807c0b3d35d_object0": {
+        "bbox": [
+            254,
+            0,
+            283,
+            411
+        ],
+        "class_id": "0",
+        "image_file": "/workspace/runs/reidentification_results/runs/test_cropped_dataset/images/3049.rf.4cf26f933dc21c9d1fda9807c0b3d35d_object0.jpg",
+        "image_id": "3049.rf.4cf26f933dc21c9d1fda9807c0b3d35d",
+        "label_file": "/workspace/runs/reidentification_results/runs/test_cropped_dataset/labels/3049.rf.4cf26f933dc21c9d1fda9807c0b3d35d_object0.txt"
+    },
+    "3063.rf.8e65e867e7dac42c2cbfcc6107ea6a5c_object0": {
+        "bbox": [
+            0,
+            100,
+            414,
+            340
+        ],
+        "class_id": "0",
+        "image_file": "/workspace/runs/reidentification_results/runs/test_cropped_dataset/images/3063.rf.8e65e867e7dac42c2cbfcc6107ea6a5c_object0.jpg",
+        "image_id": "3063.rf.8e65e867e7dac42c2cbfcc6107ea6a5c",
+        "label_file": "/workspace/runs/reidentification_results/runs/test_cropped_dataset/labels/3063.rf.8e65e867e7dac42c2cbfcc6107ea6a5c_object0.txt"
+    },
+    "3067.rf.006b54ea05537cb110efb4e8ee046272_object0": {
+        "bbox": [
+            1,
+            3,
+            413,
+            345
+        ],
+        "class_id": "0",
+        "image_file": "/workspace/runs/reidentification_results/runs/test_cropped_dataset/images/3067.rf.006b54ea05537cb110efb4e8ee046272_object0.jpg",
+        "image_id": "3067.rf.006b54ea05537cb110efb4e8ee046272",
+        "label_file": "/workspace/runs/reidentification_results/runs/test_cropped_dataset/labels/3067.rf.006b54ea05537cb110efb4e8ee046272_object0.txt"
+    },
+    "3068.rf.c15cd50686e78f2840ab43aa578e1d7d_object0": {
+        "bbox": [
+            1,
+            151,
+            414,
+            234
+        ],
+        "class_id": "0",
+        "image_file": "/workspace/runs/reidentification_results/runs/test_cropped_dataset/images/3068.rf.c15cd50686e78f2840ab43aa578e1d7d_object0.jpg",
+        "image_id": "3068.rf.c15cd50686e78f2840ab43aa578e1d7d",
+        "label_file": "/workspace/runs/reidentification_results/runs/test_cropped_dataset/labels/3068.rf.c15cd50686e78f2840ab43aa578e1d7d_object0.txt"
+    },
+    "3093.rf.842f05edf426b1584757049a52269c07_object0": {
+        "bbox": [
+            186,
+            10,
+            216,
+            410
+        ],
+        "class_id": "0",
+        "image_file": "/workspace/runs/reidentification_results/runs/test_cropped_dataset/images/3093.rf.842f05edf426b1584757049a52269c07_object0.jpg",
+        "image_id": "3093.rf.842f05edf426b1584757049a52269c07",
+        "label_file": "/workspace/runs/reidentification_results/runs/test_cropped_dataset/labels/3093.rf.842f05edf426b1584757049a52269c07_object0.txt"
+    },
+    "3118.rf.c666d79c4882118c0a6142e165e3632f_object0": {
+        "bbox": [
+            197,
+            4,
+            248,
+            413
+        ],
+        "class_id": "0",
+        "image_file": "/workspace/runs/reidentification_results/runs/test_cropped_dataset/images/3118.rf.c666d79c4882118c0a6142e165e3632f_object0.jpg",
+        "image_id": "3118.rf.c666d79c4882118c0a6142e165e3632f",
+        "label_file": "/workspace/runs/reidentification_results/runs/test_cropped_dataset/labels/3118.rf.c666d79c4882118c0a6142e165e3632f_object0.txt"
+    },
+    "3137.rf.a83bb9c7dcb0b1dab1a5bf818c423185_object0": {
+        "bbox": [
+            2,
+            171,
+            415,
+            220
+        ],
+        "class_id": "0",
+        "image_file": "/workspace/runs/reidentification_results/runs/test_cropped_dataset/images/3137.rf.a83bb9c7dcb0b1dab1a5bf818c423185_object0.jpg",
+        "image_id": "3137.rf.a83bb9c7dcb0b1dab1a5bf818c423185",
+        "label_file": "/workspace/runs/reidentification_results/runs/test_cropped_dataset/labels/3137.rf.a83bb9c7dcb0b1dab1a5bf818c423185_object0.txt"
+    },
+    "3150.rf.1ca4ed4a1274c78e2030b61aa874e8ed_object0": {
+        "bbox": [
+            186,
+            0,
+            217,
+            414
+        ],
+        "class_id": "0",
+        "image_file": "/workspace/runs/reidentification_results/runs/test_cropped_dataset/images/3150.rf.1ca4ed4a1274c78e2030b61aa874e8ed_object0.jpg",
+        "image_id": "3150.rf.1ca4ed4a1274c78e2030b61aa874e8ed",
+        "label_file": "/workspace/runs/reidentification_results/runs/test_cropped_dataset/labels/3150.rf.1ca4ed4a1274c78e2030b61aa874e8ed_object0.txt"
+    },
+    "3154.rf.96c992d5b0c2d0fc334a116d0ecf9330_object0": {
+        "bbox": [
+            231,
+            0,
+            247,
+            331
+        ],
+        "class_id": "0",
+        "image_file": "/workspace/runs/reidentification_results/runs/test_cropped_dataset/images/3154.rf.96c992d5b0c2d0fc334a116d0ecf9330_object0.jpg",
+        "image_id": "3154.rf.96c992d5b0c2d0fc334a116d0ecf9330",
+        "label_file": "/workspace/runs/reidentification_results/runs/test_cropped_dataset/labels/3154.rf.96c992d5b0c2d0fc334a116d0ecf9330_object0.txt"
+    },
+    "3154.rf.96c992d5b0c2d0fc334a116d0ecf9330_object1": {
+        "bbox": [
+            223,
+            331,
+            235,
+            414
+        ],
+        "class_id": "0",
+        "image_file": "/workspace/runs/reidentification_results/runs/test_cropped_dataset/images/3154.rf.96c992d5b0c2d0fc334a116d0ecf9330_object1.jpg",
+        "image_id": "3154.rf.96c992d5b0c2d0fc334a116d0ecf9330",
+        "label_file": "/workspace/runs/reidentification_results/runs/test_cropped_dataset/labels/3154.rf.96c992d5b0c2d0fc334a116d0ecf9330_object1.txt"
+    },
+    "3159.rf.8e32d9347a6cc6090b8810e9ecf6db13_object0": {
+        "bbox": [
+            223,
+            1,
+            257,
+            412
+        ],
+        "class_id": "0",
+        "image_file": "/workspace/runs/reidentification_results/runs/test_cropped_dataset/images/3159.rf.8e32d9347a6cc6090b8810e9ecf6db13_object0.jpg",
+        "image_id": "3159.rf.8e32d9347a6cc6090b8810e9ecf6db13",
+        "label_file": "/workspace/runs/reidentification_results/runs/test_cropped_dataset/labels/3159.rf.8e32d9347a6cc6090b8810e9ecf6db13_object0.txt"
+    },
+    "3162.rf.c7cb7c1c601f27043c0ddb17b74edfdd_object0": {
+        "bbox": [
+            92,
+            0,
+            111,
+            414
+        ],
+        "class_id": "0",
+        "image_file": "/workspace/runs/reidentification_results/runs/test_cropped_dataset/images/3162.rf.c7cb7c1c601f27043c0ddb17b74edfdd_object0.jpg",
+        "image_id": "3162.rf.c7cb7c1c601f27043c0ddb17b74edfdd",
+        "label_file": "/workspace/runs/reidentification_results/runs/test_cropped_dataset/labels/3162.rf.c7cb7c1c601f27043c0ddb17b74edfdd_object0.txt"
+    },
+    "3172.rf.cb0999cf34611fb5bbdac2a5c68b926b_object0": {
+        "bbox": [
+            0,
+            172,
+            415,
+            253
+        ],
+        "class_id": "0",
+        "image_file": "/workspace/runs/reidentification_results/runs/test_cropped_dataset/images/3172.rf.cb0999cf34611fb5bbdac2a5c68b926b_object0.jpg",
+        "image_id": "3172.rf.cb0999cf34611fb5bbdac2a5c68b926b",
+        "label_file": "/workspace/runs/reidentification_results/runs/test_cropped_dataset/labels/3172.rf.cb0999cf34611fb5bbdac2a5c68b926b_object0.txt"
+    },
+    "3174.rf.8ec774fc4db15af6b7d1e920c31f759c_object0": {
+        "bbox": [
+            250,
+            0,
+            268,
+            413
+        ],
+        "class_id": "0",
+        "image_file": "/workspace/runs/reidentification_results/runs/test_cropped_dataset/images/3174.rf.8ec774fc4db15af6b7d1e920c31f759c_object0.jpg",
+        "image_id": "3174.rf.8ec774fc4db15af6b7d1e920c31f759c",
+        "label_file": "/workspace/runs/reidentification_results/runs/test_cropped_dataset/labels/3174.rf.8ec774fc4db15af6b7d1e920c31f759c_object0.txt"
+    },
+    "3202.rf.e847435a50534b2273e1e2b8177f946e_object0": {
+        "bbox": [
+            0,
+            0,
+            338,
+            414
+        ],
+        "class_id": "0",
+        "image_file": "/workspace/runs/reidentification_results/runs/test_cropped_dataset/images/3202.rf.e847435a50534b2273e1e2b8177f946e_object0.jpg",
+        "image_id": "3202.rf.e847435a50534b2273e1e2b8177f946e",
+        "label_file": "/workspace/runs/reidentification_results/runs/test_cropped_dataset/labels/3202.rf.e847435a50534b2273e1e2b8177f946e_object0.txt"
+    },
+    "3206.rf.ec6794d42a29e7bd3f3252073c6eed71_object0": {
+        "bbox": [
+            231,
+            0,
+            285,
+            413
+        ],
+        "class_id": "0",
+        "image_file": "/workspace/runs/reidentification_results/runs/test_cropped_dataset/images/3206.rf.ec6794d42a29e7bd3f3252073c6eed71_object0.jpg",
+        "image_id": "3206.rf.ec6794d42a29e7bd3f3252073c6eed71",
+        "label_file": "/workspace/runs/reidentification_results/runs/test_cropped_dataset/labels/3206.rf.ec6794d42a29e7bd3f3252073c6eed71_object0.txt"
+    },
+    "3207.rf.f408ffa769bb22f0cc56b51300ed9ce1_object0": {
+        "bbox": [
+            145,
+            0,
+            415,
+            415
+        ],
+        "class_id": "0",
+        "image_file": "/workspace/runs/reidentification_results/runs/test_cropped_dataset/images/3207.rf.f408ffa769bb22f0cc56b51300ed9ce1_object0.jpg",
+        "image_id": "3207.rf.f408ffa769bb22f0cc56b51300ed9ce1",
+        "label_file": "/workspace/runs/reidentification_results/runs/test_cropped_dataset/labels/3207.rf.f408ffa769bb22f0cc56b51300ed9ce1_object0.txt"
+    },
+    "3215.rf.2e19342a5e9557ad837d3b98267d1ffc_object0": {
+        "bbox": [
+            1,
+            182,
+            415,
+            232
+        ],
+        "class_id": "0",
+        "image_file": "/workspace/runs/reidentification_results/runs/test_cropped_dataset/images/3215.rf.2e19342a5e9557ad837d3b98267d1ffc_object0.jpg",
+        "image_id": "3215.rf.2e19342a5e9557ad837d3b98267d1ffc",
+        "label_file": "/workspace/runs/reidentification_results/runs/test_cropped_dataset/labels/3215.rf.2e19342a5e9557ad837d3b98267d1ffc_object0.txt"
+    },
+    "3225.rf.00490d0babc76539398c471f17b0d6e7_object0": {
+        "bbox": [
+            162,
+            0,
+            222,
+            414
+        ],
+        "class_id": "0",
+        "image_file": "/workspace/runs/reidentification_results/runs/test_cropped_dataset/images/3225.rf.00490d0babc76539398c471f17b0d6e7_object0.jpg",
+        "image_id": "3225.rf.00490d0babc76539398c471f17b0d6e7",
+        "label_file": "/workspace/runs/reidentification_results/runs/test_cropped_dataset/labels/3225.rf.00490d0babc76539398c471f17b0d6e7_object0.txt"
+    },
+    "3227.rf.1bfaf73652a764c8825e813c25a347a8_object0": {
+        "bbox": [
+            245,
+            0,
+            327,
+            414
+        ],
+        "class_id": "0",
+        "image_file": "/workspace/runs/reidentification_results/runs/test_cropped_dataset/images/3227.rf.1bfaf73652a764c8825e813c25a347a8_object0.jpg",
+        "image_id": "3227.rf.1bfaf73652a764c8825e813c25a347a8",
+        "label_file": "/workspace/runs/reidentification_results/runs/test_cropped_dataset/labels/3227.rf.1bfaf73652a764c8825e813c25a347a8_object0.txt"
+    },
+    "3229.rf.66af8e45c447ae474773ccf8e7c50a5a_object0": {
+        "bbox": [
+            182,
+            0,
+            236,
+            413
+        ],
+        "class_id": "0",
+        "image_file": "/workspace/runs/reidentification_results/runs/test_cropped_dataset/images/3229.rf.66af8e45c447ae474773ccf8e7c50a5a_object0.jpg",
+        "image_id": "3229.rf.66af8e45c447ae474773ccf8e7c50a5a",
+        "label_file": "/workspace/runs/reidentification_results/runs/test_cropped_dataset/labels/3229.rf.66af8e45c447ae474773ccf8e7c50a5a_object0.txt"
+    },
+    "3231.rf.4888b161d3d270231d4cc729b7348d7e_object0": {
+        "bbox": [
+            138,
+            0,
+            189,
+            415
+        ],
+        "class_id": "0",
+        "image_file": "/workspace/runs/reidentification_results/runs/test_cropped_dataset/images/3231.rf.4888b161d3d270231d4cc729b7348d7e_object0.jpg",
+        "image_id": "3231.rf.4888b161d3d270231d4cc729b7348d7e",
+        "label_file": "/workspace/runs/reidentification_results/runs/test_cropped_dataset/labels/3231.rf.4888b161d3d270231d4cc729b7348d7e_object0.txt"
+    },
+    "3240.rf.a3096e02cbb77913c600a48e6673fc34_object0": {
+        "bbox": [
+            185,
+            0,
+            213,
+            415
+        ],
+        "class_id": "0",
+        "image_file": "/workspace/runs/reidentification_results/runs/test_cropped_dataset/images/3240.rf.a3096e02cbb77913c600a48e6673fc34_object0.jpg",
+        "image_id": "3240.rf.a3096e02cbb77913c600a48e6673fc34",
+        "label_file": "/workspace/runs/reidentification_results/runs/test_cropped_dataset/labels/3240.rf.a3096e02cbb77913c600a48e6673fc34_object0.txt"
+    },
+    "3258.rf.1b9e5091cb3dc7fe0abf4e44dd3e0dc7_object0": {
+        "bbox": [
+            225,
+            1,
+            290,
+            415
+        ],
+        "class_id": "0",
+        "image_file": "/workspace/runs/reidentification_results/runs/test_cropped_dataset/images/3258.rf.1b9e5091cb3dc7fe0abf4e44dd3e0dc7_object0.jpg",
+        "image_id": "3258.rf.1b9e5091cb3dc7fe0abf4e44dd3e0dc7",
+        "label_file": "/workspace/runs/reidentification_results/runs/test_cropped_dataset/labels/3258.rf.1b9e5091cb3dc7fe0abf4e44dd3e0dc7_object0.txt"
+    },
+    "3259.rf.a92a5f313a7c48a2a4e7973db4fb19e2_object0": {
+        "bbox": [
+            223,
+            0,
+            267,
+            415
+        ],
+        "class_id": "0",
+        "image_file": "/workspace/runs/reidentification_results/runs/test_cropped_dataset/images/3259.rf.a92a5f313a7c48a2a4e7973db4fb19e2_object0.jpg",
+        "image_id": "3259.rf.a92a5f313a7c48a2a4e7973db4fb19e2",
+        "label_file": "/workspace/runs/reidentification_results/runs/test_cropped_dataset/labels/3259.rf.a92a5f313a7c48a2a4e7973db4fb19e2_object0.txt"
+    },
+    "3262.rf.c9dc3251366364177a515678a4b7deca_object0": {
+        "bbox": [
+            279,
+            1,
+            309,
+            415
+        ],
+        "class_id": "0",
+        "image_file": "/workspace/runs/reidentification_results/runs/test_cropped_dataset/images/3262.rf.c9dc3251366364177a515678a4b7deca_object0.jpg",
+        "image_id": "3262.rf.c9dc3251366364177a515678a4b7deca",
+        "label_file": "/workspace/runs/reidentification_results/runs/test_cropped_dataset/labels/3262.rf.c9dc3251366364177a515678a4b7deca_object0.txt"
+    },
+    "3266.rf.e869e737911fd5b9235a9dcb6e297cc3_object0": {
+        "bbox": [
+            176,
+            0,
+            220,
+            415
+        ],
+        "class_id": "0",
+        "image_file": "/workspace/runs/reidentification_results/runs/test_cropped_dataset/images/3266.rf.e869e737911fd5b9235a9dcb6e297cc3_object0.jpg",
+        "image_id": "3266.rf.e869e737911fd5b9235a9dcb6e297cc3",
+        "label_file": "/workspace/runs/reidentification_results/runs/test_cropped_dataset/labels/3266.rf.e869e737911fd5b9235a9dcb6e297cc3_object0.txt"
+    },
+    "3275.rf.f98acf5215d6730828f485c270ae7b54_object0": {
+        "bbox": [
+            283,
+            0,
+            307,
+            415
+        ],
+        "class_id": "0",
+        "image_file": "/workspace/runs/reidentification_results/runs/test_cropped_dataset/images/3275.rf.f98acf5215d6730828f485c270ae7b54_object0.jpg",
+        "image_id": "3275.rf.f98acf5215d6730828f485c270ae7b54",
+        "label_file": "/workspace/runs/reidentification_results/runs/test_cropped_dataset/labels/3275.rf.f98acf5215d6730828f485c270ae7b54_object0.txt"
+    },
+    "3303.rf.061ce24aaf7333b08a68618808e54a9c_object0": {
+        "bbox": [
+            176,
+            0,
+            240,
+            415
+        ],
+        "class_id": "0",
+        "image_file": "/workspace/runs/reidentification_results/runs/test_cropped_dataset/images/3303.rf.061ce24aaf7333b08a68618808e54a9c_object0.jpg",
+        "image_id": "3303.rf.061ce24aaf7333b08a68618808e54a9c",
+        "label_file": "/workspace/runs/reidentification_results/runs/test_cropped_dataset/labels/3303.rf.061ce24aaf7333b08a68618808e54a9c_object0.txt"
+    },
+    "3306.rf.b72adcdf677fa01eeccf1247826ff0d8_object0": {
+        "bbox": [
+            15,
+            209,
+            158,
+            248
+        ],
+        "class_id": "0",
+        "image_file": "/workspace/runs/reidentification_results/runs/test_cropped_dataset/images/3306.rf.b72adcdf677fa01eeccf1247826ff0d8_object0.jpg",
+        "image_id": "3306.rf.b72adcdf677fa01eeccf1247826ff0d8",
+        "label_file": "/workspace/runs/reidentification_results/runs/test_cropped_dataset/labels/3306.rf.b72adcdf677fa01eeccf1247826ff0d8_object0.txt"
+    },
+    "3306.rf.b72adcdf677fa01eeccf1247826ff0d8_object1": {
+        "bbox": [
+            161,
+            157,
+            415,
+            216
+        ],
+        "class_id": "0",
+        "image_file": "/workspace/runs/reidentification_results/runs/test_cropped_dataset/images/3306.rf.b72adcdf677fa01eeccf1247826ff0d8_object1.jpg",
+        "image_id": "3306.rf.b72adcdf677fa01eeccf1247826ff0d8",
+        "label_file": "/workspace/runs/reidentification_results/runs/test_cropped_dataset/labels/3306.rf.b72adcdf677fa01eeccf1247826ff0d8_object1.txt"
+    },
+    "3313.rf.5f0a7ba195fe30e2ed30165df414b94e_object0": {
+        "bbox": [
+            119,
+            0,
+            234,
+            415
+        ],
+        "class_id": "0",
+        "image_file": "/workspace/runs/reidentification_results/runs/test_cropped_dataset/images/3313.rf.5f0a7ba195fe30e2ed30165df414b94e_object0.jpg",
+        "image_id": "3313.rf.5f0a7ba195fe30e2ed30165df414b94e",
+        "label_file": "/workspace/runs/reidentification_results/runs/test_cropped_dataset/labels/3313.rf.5f0a7ba195fe30e2ed30165df414b94e_object0.txt"
+    },
+    "3351.rf.1c54d04ac035ecc049785b24e7435668_object0": {
+        "bbox": [
+            0,
+            198,
+            415,
+            230
+        ],
+        "class_id": "0",
+        "image_file": "/workspace/runs/reidentification_results/runs/test_cropped_dataset/images/3351.rf.1c54d04ac035ecc049785b24e7435668_object0.jpg",
+        "image_id": "3351.rf.1c54d04ac035ecc049785b24e7435668",
+        "label_file": "/workspace/runs/reidentification_results/runs/test_cropped_dataset/labels/3351.rf.1c54d04ac035ecc049785b24e7435668_object0.txt"
+    },
+    "3354.rf.0a71b77956ae50ad6ea1195c2ac55cd0_object0": {
+        "bbox": [
+            238,
+            1,
+            261,
+            415
+        ],
+        "class_id": "0",
+        "image_file": "/workspace/runs/reidentification_results/runs/test_cropped_dataset/images/3354.rf.0a71b77956ae50ad6ea1195c2ac55cd0_object0.jpg",
+        "image_id": "3354.rf.0a71b77956ae50ad6ea1195c2ac55cd0",
+        "label_file": "/workspace/runs/reidentification_results/runs/test_cropped_dataset/labels/3354.rf.0a71b77956ae50ad6ea1195c2ac55cd0_object0.txt"
+    },
+    "3376.rf.06fe7c72959b6ae5c03d19165ea3d515_object0": {
+        "bbox": [
+            205,
+            0,
+            256,
+            414
+        ],
+        "class_id": "0",
+        "image_file": "/workspace/runs/reidentification_results/runs/test_cropped_dataset/images/3376.rf.06fe7c72959b6ae5c03d19165ea3d515_object0.jpg",
+        "image_id": "3376.rf.06fe7c72959b6ae5c03d19165ea3d515",
+        "label_file": "/workspace/runs/reidentification_results/runs/test_cropped_dataset/labels/3376.rf.06fe7c72959b6ae5c03d19165ea3d515_object0.txt"
+    },
+    "3443.rf.ae3196f72376757297122e81626f6f60_object0": {
+        "bbox": [
+            225,
+            1,
+            294,
+            414
+        ],
+        "class_id": "0",
+        "image_file": "/workspace/runs/reidentification_results/runs/test_cropped_dataset/images/3443.rf.ae3196f72376757297122e81626f6f60_object0.jpg",
+        "image_id": "3443.rf.ae3196f72376757297122e81626f6f60",
+        "label_file": "/workspace/runs/reidentification_results/runs/test_cropped_dataset/labels/3443.rf.ae3196f72376757297122e81626f6f60_object0.txt"
+    },
+    "3456.rf.30895a89b64e39620e28cd70e6330319_object0": {
+        "bbox": [
+            142,
+            1,
+            214,
+            414
+        ],
+        "class_id": "0",
+        "image_file": "/workspace/runs/reidentification_results/runs/test_cropped_dataset/images/3456.rf.30895a89b64e39620e28cd70e6330319_object0.jpg",
+        "image_id": "3456.rf.30895a89b64e39620e28cd70e6330319",
+        "label_file": "/workspace/runs/reidentification_results/runs/test_cropped_dataset/labels/3456.rf.30895a89b64e39620e28cd70e6330319_object0.txt"
+    },
+    "3481.rf.df8774688622b789d11a98521eb9ea1f_object0": {
+        "bbox": [
+            227,
+            0,
+            358,
+            415
+        ],
+        "class_id": "0",
+        "image_file": "/workspace/runs/reidentification_results/runs/test_cropped_dataset/images/3481.rf.df8774688622b789d11a98521eb9ea1f_object0.jpg",
+        "image_id": "3481.rf.df8774688622b789d11a98521eb9ea1f",
+        "label_file": "/workspace/runs/reidentification_results/runs/test_cropped_dataset/labels/3481.rf.df8774688622b789d11a98521eb9ea1f_object0.txt"
+    },
+    "3498.rf.d6a2177504b9a25c571a3c936d1ae1a8_object0": {
+        "bbox": [
+            244,
+            0,
+            279,
+            415
+        ],
+        "class_id": "0",
+        "image_file": "/workspace/runs/reidentification_results/runs/test_cropped_dataset/images/3498.rf.d6a2177504b9a25c571a3c936d1ae1a8_object0.jpg",
+        "image_id": "3498.rf.d6a2177504b9a25c571a3c936d1ae1a8",
+        "label_file": "/workspace/runs/reidentification_results/runs/test_cropped_dataset/labels/3498.rf.d6a2177504b9a25c571a3c936d1ae1a8_object0.txt"
+    },
+    "3600.rf.b7b614527ef02e79cf9bac0f01499db1_object0": {
+        "bbox": [
+            224,
+            0,
+            265,
+            415
+        ],
+        "class_id": "0",
+        "image_file": "/workspace/runs/reidentification_results/runs/test_cropped_dataset/images/3600.rf.b7b614527ef02e79cf9bac0f01499db1_object0.jpg",
+        "image_id": "3600.rf.b7b614527ef02e79cf9bac0f01499db1",
+        "label_file": "/workspace/runs/reidentification_results/runs/test_cropped_dataset/labels/3600.rf.b7b614527ef02e79cf9bac0f01499db1_object0.txt"
+    },
+    "3808.rf.493b34c335bf6a7418b971aa62b7d0fd_object0": {
+        "bbox": [
+            167,
+            0,
+            201,
+            412
+        ],
+        "class_id": "0",
+        "image_file": "/workspace/runs/reidentification_results/runs/test_cropped_dataset/images/3808.rf.493b34c335bf6a7418b971aa62b7d0fd_object0.jpg",
+        "image_id": "3808.rf.493b34c335bf6a7418b971aa62b7d0fd",
+        "label_file": "/workspace/runs/reidentification_results/runs/test_cropped_dataset/labels/3808.rf.493b34c335bf6a7418b971aa62b7d0fd_object0.txt"
+    },
+    "3813.rf.e15af5ed48e2b7af887d08311ef9a478_object0": {
+        "bbox": [
+            272,
+            0,
+            291,
+            415
+        ],
+        "class_id": "0",
+        "image_file": "/workspace/runs/reidentification_results/runs/test_cropped_dataset/images/3813.rf.e15af5ed48e2b7af887d08311ef9a478_object0.jpg",
+        "image_id": "3813.rf.e15af5ed48e2b7af887d08311ef9a478",
+        "label_file": "/workspace/runs/reidentification_results/runs/test_cropped_dataset/labels/3813.rf.e15af5ed48e2b7af887d08311ef9a478_object0.txt"
+    },
+    "3833.rf.e85ce14ff45661fe11e7d51a072cdef6_object0": {
+        "bbox": [
+            0,
+            124,
+            201,
+            210
+        ],
+        "class_id": "0",
+        "image_file": "/workspace/runs/reidentification_results/runs/test_cropped_dataset/images/3833.rf.e85ce14ff45661fe11e7d51a072cdef6_object0.jpg",
+        "image_id": "3833.rf.e85ce14ff45661fe11e7d51a072cdef6",
+        "label_file": "/workspace/runs/reidentification_results/runs/test_cropped_dataset/labels/3833.rf.e85ce14ff45661fe11e7d51a072cdef6_object0.txt"
+    },
+    "3833.rf.e85ce14ff45661fe11e7d51a072cdef6_object1": {
+        "bbox": [
+            207,
+            185,
+            415,
+            224
+        ],
+        "class_id": "0",
+        "image_file": "/workspace/runs/reidentification_results/runs/test_cropped_dataset/images/3833.rf.e85ce14ff45661fe11e7d51a072cdef6_object1.jpg",
+        "image_id": "3833.rf.e85ce14ff45661fe11e7d51a072cdef6",
+        "label_file": "/workspace/runs/reidentification_results/runs/test_cropped_dataset/labels/3833.rf.e85ce14ff45661fe11e7d51a072cdef6_object1.txt"
+    },
+    "3836.rf.5593476e218d3458202eb55d88f70676_object0": {
+        "bbox": [
+            159,
+            0,
+            207,
+            414
+        ],
+        "class_id": "0",
+        "image_file": "/workspace/runs/reidentification_results/runs/test_cropped_dataset/images/3836.rf.5593476e218d3458202eb55d88f70676_object0.jpg",
+        "image_id": "3836.rf.5593476e218d3458202eb55d88f70676",
+        "label_file": "/workspace/runs/reidentification_results/runs/test_cropped_dataset/labels/3836.rf.5593476e218d3458202eb55d88f70676_object0.txt"
+    },
+    "3841.rf.10b7cdb473d0d68639078e98f220754a_object0": {
+        "bbox": [
+            5,
+            155,
+            415,
+            282
+        ],
+        "class_id": "0",
+        "image_file": "/workspace/runs/reidentification_results/runs/test_cropped_dataset/images/3841.rf.10b7cdb473d0d68639078e98f220754a_object0.jpg",
+        "image_id": "3841.rf.10b7cdb473d0d68639078e98f220754a",
+        "label_file": "/workspace/runs/reidentification_results/runs/test_cropped_dataset/labels/3841.rf.10b7cdb473d0d68639078e98f220754a_object0.txt"
+    },
+    "3848.rf.eebe99038cd40502695607594e000258_object0": {
+        "bbox": [
+            189,
+            1,
+            298,
+            414
+        ],
+        "class_id": "0",
+        "image_file": "/workspace/runs/reidentification_results/runs/test_cropped_dataset/images/3848.rf.eebe99038cd40502695607594e000258_object0.jpg",
+        "image_id": "3848.rf.eebe99038cd40502695607594e000258",
+        "label_file": "/workspace/runs/reidentification_results/runs/test_cropped_dataset/labels/3848.rf.eebe99038cd40502695607594e000258_object0.txt"
+    },
+    "3852.rf.449ecbe5cec6616321519ad9291ee6ea_object0": {
+        "bbox": [
+            209,
+            0,
+            235,
+            408
+        ],
+        "class_id": "0",
+        "image_file": "/workspace/runs/reidentification_results/runs/test_cropped_dataset/images/3852.rf.449ecbe5cec6616321519ad9291ee6ea_object0.jpg",
+        "image_id": "3852.rf.449ecbe5cec6616321519ad9291ee6ea",
+        "label_file": "/workspace/runs/reidentification_results/runs/test_cropped_dataset/labels/3852.rf.449ecbe5cec6616321519ad9291ee6ea_object0.txt"
+    },
+    "3872.rf.0e39fa77d324ee70da6d5e31e943678c_object0": {
+        "bbox": [
+            3,
+            237,
+            415,
+            283
+        ],
+        "class_id": "0",
+        "image_file": "/workspace/runs/reidentification_results/runs/test_cropped_dataset/images/3872.rf.0e39fa77d324ee70da6d5e31e943678c_object0.jpg",
+        "image_id": "3872.rf.0e39fa77d324ee70da6d5e31e943678c",
+        "label_file": "/workspace/runs/reidentification_results/runs/test_cropped_dataset/labels/3872.rf.0e39fa77d324ee70da6d5e31e943678c_object0.txt"
+    },
+    "3885.rf.5d0b08090bb3c2fcd3bc8fe36db9e51a_object0": {
+        "bbox": [
+            308,
+            344,
+            415,
+            415
+        ],
+        "class_id": "0",
+        "image_file": "/workspace/runs/reidentification_results/runs/test_cropped_dataset/images/3885.rf.5d0b08090bb3c2fcd3bc8fe36db9e51a_object0.jpg",
+        "image_id": "3885.rf.5d0b08090bb3c2fcd3bc8fe36db9e51a",
+        "label_file": "/workspace/runs/reidentification_results/runs/test_cropped_dataset/labels/3885.rf.5d0b08090bb3c2fcd3bc8fe36db9e51a_object0.txt"
+    },
+    "3897.rf.94c81f86436f41e7bba4b2e66934a470_object0": {
+        "bbox": [
+            217,
+            0,
+            249,
+            412
+        ],
+        "class_id": "0",
+        "image_file": "/workspace/runs/reidentification_results/runs/test_cropped_dataset/images/3897.rf.94c81f86436f41e7bba4b2e66934a470_object0.jpg",
+        "image_id": "3897.rf.94c81f86436f41e7bba4b2e66934a470",
+        "label_file": "/workspace/runs/reidentification_results/runs/test_cropped_dataset/labels/3897.rf.94c81f86436f41e7bba4b2e66934a470_object0.txt"
+    }
+}
