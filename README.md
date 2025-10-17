@@ -4,6 +4,16 @@ A compact, deployable pipeline for UAV-based crack detection and single-shot re-
 
 Goal: robust, fair, and efficient single-shot crack Re-ID under UAV constraints, evaluated with OSR, mAP_fair, and CMC.
 
+
+## Docker
+
+```bash
+docker build -t crack-reid -f DockerFile .
+docker run --gpus all -it --rm \
+  -v $PWD:/workspace -w /workspace \
+  crack-reid /bin/bash
+```
+
 ## Installation
 
 - Python 3.8+
@@ -67,11 +77,3 @@ python get_cmc_ablation.py
 - Detection/segmentation: mAP@50:95, Precision, Recall, mIoU (Ultralytics)
 - Re-ID: OSR (%), mAP_fair, CMC@k (k=1,5,10)
 
-## Docker
-
-```bash
-docker build -t crack-reid -f DockerFile .
-docker run --gpus all -it --rm \
-  -v $PWD:/workspace -w /workspace \
-  crack-reid /bin/bash
-```
