@@ -25,7 +25,8 @@ export WANDB_PROJECT=yolo_segmentation_hpo_baseline_yolov11
 ## Data
 
 - Use YOLO-style segmentation data and update paths in crack-seg.yaml.
-- Recommended: Roboflow Universe Crack Dataset (bphdr), split into train/val/test.
+- Recommended: Roboflow Universe Crack Dataset (bphdr) (https://universe.roboflow.com/university-bswxt/crack-bphdr),
+               split into train/val/test.
 
 Directory sketch (example):
 - datasets/crack/
